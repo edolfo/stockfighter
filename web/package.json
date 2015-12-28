@@ -1,0 +1,25 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "Web server/client for stockfighter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edolfo/stockfighter.git"
+  },
+  "author": "edolfo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edolfo/stockfighter/issues"
+  },
+  "homepage": "https://github.com/edolfo/stockfighter",
+  "dependencies": {
+    "express": "4.13.3",
+    "express-enrouten": "1.2.1",
+    "hbs": "4.0.0",
+    "lodash": "3.10.1"
+  }
+}
